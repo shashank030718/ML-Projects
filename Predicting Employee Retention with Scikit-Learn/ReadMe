@@ -1,0 +1,8 @@
+Predicting Employee Retention with Scikit-Learn
+
+✅ Generate a synthetic dataset for employee retention prediction.
+✅ Perform exploratory data analysis (EDA) to uncover patterns in the data.
+✅ Preprocess data using scaling and encoding techniques.
+✅ Build and evaluate a Random Forest Classifier using a streamlined pipeline.
+✅ Optimize your model with GridSearchCV.
+✅ Analyze feature importance to understand key factors driving predictions.
